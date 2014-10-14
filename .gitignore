@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+.idea/
+dev.sqlite
+dev.sqlite3
+static_root/
+media/
+build/
+dist/
+*.egg-info
+bower_components/*
+celerybeat-schedule.db
+swampdragon
